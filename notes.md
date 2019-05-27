@@ -9,3 +9,6 @@
 ## OQM Info
 - OQM certification guidelines
   - https://www.egbc.ca/Practice-Resources/Organizational-Quality-Management-Program
+
+## GitHub Setup Verification
+-Ryan True
